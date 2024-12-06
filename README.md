@@ -35,15 +35,13 @@
         <img src="https://github.com/user-attachments/assets/c01c579b-7f4f-436b-984a-74a26d2cef44"width="200px;" alt=""/>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
+        <img src="https://github.com/user-attachments/assets/24684846-d6d3-4a80-aaf2-485d9dafc557"width="200px;" alt=""/>
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Joey9797"><div align=center>@Joey9797</div></a></td>
+      <td><a href="https://github.com/yooodleee"><div align=center>@yooodleee</div></a></td>
       <td><a href="https://github.com/ChoiByuengJun"><div align=center>@ChoiByuengJun</div></a></td>
-      <td><a href="https://github.com/Ah-ram"><div align=center>@Ah-ram</div></a></td>
-      <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
-      <td><a href="https://github.com/y0ng98"><div align=center>@y0ng98</div></a></td>
     </tr>
   </tbody>
 </table>
@@ -441,3 +439,5 @@ _AWS에 대한 개념이 모호했는데, 직접 사용하고 DLLS와의 연동 
 
 😁<b>이용휘</b>  
 _LLM을 활용해서 논문 분석 챗봇을 만들고 AWS에 배포까지 해볼 수 있는 좋은 경험이 되었습니다. 팀원분들이 모두 열심히 해주셔서 잘 마무리할 수 있었습니다. 고생하셨습니다!_
+
+
