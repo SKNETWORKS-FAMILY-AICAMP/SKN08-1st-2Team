@@ -11,15 +11,14 @@
 
 
 # 0. Introduction Team (팀 소개)
-### ✅ 팀명 : COTRIS
+### ✅ 팀명 : COTRIS
 <table align=center>
   <tbody>
     <tr>
       <td align=center><b>박주희</b></td>
-      <td align=center><b>민경원</b></td>
+      <td align=center><b>최병준</b></td>
       <td align=center><b>정아람</b></td>
       <td align=center><b>최인헌</b></td>
-      <td align=center><b>이용휘</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -29,7 +28,7 @@
       </td>
       <td align="center">
         <div>
-          <img src="https://github.com/user-attachments/assets/30f29d8b-bcec-46c7-bce6-e6e4ec414e55"width="200px;" alt=""/>
+          <img src="https://avatars.githubusercontent.com/u/188127748?v=4""/>
         </div>
       </td>
       <td align="center">
@@ -38,13 +37,10 @@
       <td align="center">
         <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
       </td>
-      <td align="center">
-        <img src="https://github.com/user-attachments/assets/49822355-b1ef-485b-a45b-dc2199d8397b"width="200px;" alt=""/>
-      </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Joey9797"><div align=center>@Joey9797</div></a></td>
-      <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
+      <td><a href="https://github.com/ChoiByuengJun"><div align=center>@ChoiByuengJun</div></a></td>
       <td><a href="https://github.com/Ah-ram"><div align=center>@Ah-ram</div></a></td>
       <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
       <td><a href="https://github.com/y0ng98"><div align=center>@y0ng98</div></a></td>
@@ -434,8 +430,8 @@ return {"generatedText": output["output_text"]}
 🤓<b>박주희</b>  
 _PYTHON 이라는 언어에 대해 더 깊게 이해할 수 있게 되었고, 그 이해를 바탕으로 DDD 구조의 프로젝트를 진행하여 유지보수가 용이한 코드 작성의 중요성을 체감할 수 있었습니다._
 
-👨‍💻<b>민경원</b>  
-_Open AI API 등을 이용한 LLM 서비스 구축과 DLLS 구성을 통한 비동기 소켓 통신까지 직접 경험해 볼 수 있어서 좋았습니다._
+👨‍💻<b>최병준</b>  
+_개발에 대해 처음 접해보고 언어와 코드, 형식 등 많은 것을 배우고, 아직 따라하는 수준이지만 내가 해야되는 것을 알 수 있는 유용한 시간이였습니다.
 
 😺<b>정아람</b>  
 _좋은 팀원분들을 만나 덕분에 많이 배울 수 있었고 프로젝트도 잘 마무리될 수 있었다고 생각합니다. 수고하셨습니다😊_
