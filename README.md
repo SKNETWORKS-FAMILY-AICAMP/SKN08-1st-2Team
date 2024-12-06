@@ -1,4 +1,4 @@
-# SKN08-1st-2Team
+![image](https://github.com/user-attachments/assets/40f12eb3-8331-4492-b27b-9986050f2fba)# SKN08-1st-2Team
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00FF00&height=240&text=SKN01-4th-1Team&animation=&fontColor=00FF00&fontSize=90" width="1000" />
@@ -11,12 +11,12 @@
 
 
 # 0. Introduction Team (팀 소개)
-### ✅ 팀명 : COTRIS
+### ✅ 팀명 : COTRIS
 <table align=center>
   <tbody>
     <tr>
       <td align=center><b>박주희</b></td>
-      <td align=center><b>민경원</b></td>
+      <td align=center><b>오민수</b></td>
       <td align=center><b>정아람</b></td>
       <td align=center><b>최인헌</b></td>
       <td align=center><b>이용휘</b></td>
@@ -44,7 +44,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Joey9797"><div align=center>@Joey9797</div></a></td>
-      <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
+      <td><a href="[https://github.com/yooodleee"><div align=center>@yooodleee</div></a></td>
       <td><a href="https://github.com/Ah-ram"><div align=center>@Ah-ram</div></a></td>
       <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
       <td><a href="https://github.com/y0ng98"><div align=center>@y0ng98</div></a></td>
