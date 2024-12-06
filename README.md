@@ -23,7 +23,7 @@
     <tr>
       <td align="center">
         <div>
-          <img src=![마죠리카](https://github.com/user-attachments/assets/cc2baf43-8022-4d00-ac07-fef20ed69fc1)"/>
+          <img src="https://cdn.discordapp.com/attachments/1314480175118815272/1314484992184680459/371c2fe51ed1cd9d.png?ex=6753f10c&is=67529f8c&hm=ddaaffbbd84c96501c5845308911eebdbb122c5e7f5d981cc3e38b25c622ba39&"width="200px; alt=""/>
         </div>
       </td>
       <td align="center">
@@ -32,17 +32,17 @@
         </div>
       </td>
       <td align="center">
-        <img src="https://avatars.githubusercontent.com/u/188949785?v=4"/>
+        <img src="https://avatars.githubusercontent.com/u/188949785?v=4"width="200px; alt=""/>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/24684846-d6d3-4a80-aaf2-485d9dafc557"width="200px;" alt=""/>
+        <img src="https://github.com/user-attachments/assets/24684846-d6d3-4a80-aaf2-485d9dafc557"width="200px; alt=""/>
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Joey9797"><div align=center>@Joey9797</div></a></td>
-      <td><a href="https://github.com/yooodleee"><div align=center>@yooodleee</div></a></td>
       <td><a href="https://github.com/ChoiByuengJun"><div align=center>@ChoiByuengJun</div></a></td>
-      <td><a href="https://github.com/CodeLego8"><div align=center>@CodeLego8</div></a></td>
+      <td><a href="https://github.com/yooodleee"><div align=center>@CodeLego8</div></a></td>
+      <td><a href="https://github.com/CodeLego8"><div align=center>@yooodleee</div></a></td>
     </tr>
   </tbody>
 </table>
