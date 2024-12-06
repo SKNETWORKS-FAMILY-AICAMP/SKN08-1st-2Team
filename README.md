@@ -28,21 +28,21 @@
       </td>
       <td align="center">
         <div>
-          <img src="https://avatars.githubusercontent.com/u/188127748?v=4""/>
+          <img src="https://avatars.githubusercontent.com/u/188127748?v=4"width="200px; alt=""/>
         </div>
       </td>
       <td align="center">
         <img src="https://avatars.githubusercontent.com/u/188949785?v=4"/>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
+        <img src="https://github.com/user-attachments/assets/24684846-d6d3-4a80-aaf2-485d9dafc557"width="200px;" alt=""/>
       </td>
     </tr>
     <tr>
       <td><a href="https://github.com/Joey9797"><div align=center>@Joey9797</div></a></td>
+      <td><a href="https://github.com/yooodleee"><div align=center>@yooodleee</div></a></td>
       <td><a href="https://github.com/ChoiByuengJun"><div align=center>@ChoiByuengJun</div></a></td>
       <td><a href="https://github.com/CodeLego8"><div align=center>@CodeLego8</div></a></td>
-      <td><a href="https://github.com/yooodleee"><div align=center>@yooodleee</div></a></td>
     </tr>
   </tbody>
 </table>
