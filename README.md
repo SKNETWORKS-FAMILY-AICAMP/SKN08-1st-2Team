@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/40f12eb3-8331-4492-b27b-9986050f2fba)# SKN08-1st-2Team
+# SKN08-1st-2Team
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00FF00&height=240&text=SKN01-4th-1Team&animation=&fontColor=00FF00&fontSize=90" width="1000" />
