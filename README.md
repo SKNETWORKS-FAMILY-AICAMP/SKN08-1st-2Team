@@ -17,13 +17,13 @@
     <tr>
       <td align=center><b>박주희</b></td>
       <td align=center><b>최병준</b></td>
-      <td align=center><b>정아람</b></td>
-      <td align=center><b>최인헌</b></td>
+      <td align=center><b>조준희</b></td>
+      <td align=center><b>오민수</b></td>
     </tr>
     <tr>
       <td align="center">
         <div>
-          <img src="https://github.com/user-attachments/assets/8fda4dc2-8942-45df-9ff8-1f22092e54f6"width="200px; alt=""/>
+          <img src=![마죠리카](https://github.com/user-attachments/assets/cc2baf43-8022-4d00-ac07-fef20ed69fc1)"/>
         </div>
       </td>
       <td align="center">
@@ -32,7 +32,7 @@
         </div>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/c01c579b-7f4f-436b-984a-74a26d2cef44"width="200px;" alt=""/>
+        <img src="https://avatars.githubusercontent.com/u/188949785?v=4"/>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
@@ -41,9 +41,8 @@
     <tr>
       <td><a href="https://github.com/Joey9797"><div align=center>@Joey9797</div></a></td>
       <td><a href="https://github.com/ChoiByuengJun"><div align=center>@ChoiByuengJun</div></a></td>
-      <td><a href="https://github.com/Ah-ram"><div align=center>@Ah-ram</div></a></td>
-      <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
-      <td><a href="https://github.com/y0ng98"><div align=center>@y0ng98</div></a></td>
+      <td><a href="https://github.com/CodeLego8"><div align=center>@CodeLego8</div></a></td>
+      <td><a href="https://github.com/yooodleee"><div align=center>@yooodleee</div></a></td>
     </tr>
   </tbody>
 </table>
@@ -433,11 +432,8 @@ _PYTHON 이라는 언어에 대해 더 깊게 이해할 수 있게 되었고, �
 👨‍💻<b>최병준</b>  
 _개발에 대해 처음 접해보고 언어와 코드, 형식 등 많은 것을 배우고, 아직 따라하는 수준이지만 내가 해야되는 것을 알 수 있는 유용한 시간이였습니다.
 
-😺<b>정아람</b>  
-_좋은 팀원분들을 만나 덕분에 많이 배울 수 있었고 프로젝트도 잘 마무리될 수 있었다고 생각합니다. 수고하셨습니다😊_
+😺<b>조준희</b>  
+_PYTHON에 대해 새롭게 접근하는 방법인 DDD를 배울 수 있어서 좋았고, 아직은 따라가기에 급급하지만 노력해야하는 방향성을 알 수 있어서 좋았습니다.
 
-🪐<b>최인헌</b>  
-_AWS에 대한 개념이 모호했는데, 직접 사용하고 DLLS와의 연동 세팅을 해보면서 확실하게 알 수 있었습니다. 덕분에 DevOps에 좀 더 흥미가 생겼습니다. 모두 고생하셨습니다!_
-
-😁<b>이용휘</b>  
-_LLM을 활용해서 논문 분석 챗봇을 만들고 AWS에 배포까지 해볼 수 있는 좋은 경험이 되었습니다. 팀원분들이 모두 열심히 해주셔서 잘 마무리할 수 있었습니다. 고생하셨습니다!_
+🪐<b>오민수</b>  
+_협업을 위한 DDD 구조 설계, 그리고 백로그 작성을 하는 동시에 애자일 방식으로 협업이 진행되면 상당히 효과적이면서도 효율적으로 진행할 수 있다는 것을 배울 수 있었습니다._
