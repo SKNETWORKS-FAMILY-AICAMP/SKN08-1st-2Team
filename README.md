@@ -15,7 +15,7 @@
 <table align=center>
   <tbody>
     <tr>
-      <td align=center><b>한재혁</b></td>
+      <td align=center><b>박주희</b></td>
       <td align=center><b>민경원</b></td>
       <td align=center><b>정아람</b></td>
       <td align=center><b>최인헌</b></td>
@@ -24,7 +24,7 @@
     <tr>
       <td align="center">
         <div>
-          <img src="https://github.com/user-attachments/assets/80f0a998-61ab-4de5-a652-51575e8a4468"width="200px; alt=""/>
+          <img src="https://github.com/user-attachments/assets/8fda4dc2-8942-45df-9ff8-1f22092e54f6"width="200px; alt=""/>
         </div>
       </td>
       <td align="center">
@@ -43,7 +43,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/Jh-jaehyuk"><div align=center>@Jh-jaehyuk</div></a></td>
+      <td><a href="https://github.com/Joey9797"><div align=center>@Joey9797</div></a></td>
       <td><a href="https://github.com/MinMessi"><div align=center>@MinMessi</div></a></td>
       <td><a href="https://github.com/Ah-ram"><div align=center>@Ah-ram</div></a></td>
       <td><a href="https://github.com/ih9511"><div align=center>@ih9511</div></a></td>
@@ -425,12 +425,14 @@ return {"generatedText": output["output_text"]}
 ![image](https://github.com/user-attachments/assets/e86076e9-ed73-49d9-96f0-4ad491f83783)
 ![image](https://github.com/user-attachments/assets/cc0f7bb1-fe7f-4457-94ca-1195a3fba255)
 
+<img width="435" alt="image" src="https://github.com/user-attachments/assets/8fda4dc2-8942-45df-9ff8-1f22092e54f6">
+
 <br><br><br>
 
   
 # 9. 한 줄 회고
-🤓<b>한재혁</b>  
-_단순히 LLM을 이용하여 개발만 한 것이 아니라 AWS로 서비스 배포까지 진행해볼 수 있어서 좋은 경험이었습니다!👏_
+🤓<b>박주희</b>  
+_PYTHON 이라는 언어에 대해 더 깊게 이해할 수 있게 되었고, 그 이해를 바탕으로 DDD 구조의 프로젝트를 진행하여 유지보수가 용이한 코드 작성의 중요성을 체감할 수 있었습니다._
 
 👨‍💻<b>민경원</b>  
 _Open AI API 등을 이용한 LLM 서비스 구축과 DLLS 구성을 통한 비동기 소켓 통신까지 직접 경험해 볼 수 있어서 좋았습니다._
