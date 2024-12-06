@@ -16,9 +16,9 @@
   <tbody>
     <tr>
       <td align=center><b>박주희</b></td>
-      <td align=center><b>오민수</b></td>
+      <td align=center><b></b></td>
       <td align=center><b>정아람</b></td>
-      <td align=center><b>최인헌</b></td>
+      <td align=center><b>오민수</b></td>
       <td align=center><b>이용휘</b></td>
     </tr>
     <tr>
@@ -36,7 +36,7 @@
         <img src="https://github.com/user-attachments/assets/c01c579b-7f4f-436b-984a-74a26d2cef44"width="200px;" alt=""/>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/77eff59b-1c54-4d91-a49c-5f81cf28fb35"width="200px;" alt=""/>
+        <img src="https://github.com/user-attachments/assets/24684846-d6d3-4a80-aaf2-485d9dafc557"width="200px;" alt=""/>
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/49822355-b1ef-485b-a45b-dc2199d8397b"width="200px;" alt=""/>
@@ -445,3 +445,5 @@ _AWS에 대한 개념이 모호했는데, 직접 사용하고 DLLS와의 연동 
 
 😁<b>이용휘</b>  
 _LLM을 활용해서 논문 분석 챗봇을 만들고 AWS에 배포까지 해볼 수 있는 좋은 경험이 되었습니다. 팀원분들이 모두 열심히 해주셔서 잘 마무리할 수 있었습니다. 고생하셨습니다!_
+
+
