@@ -11,7 +11,7 @@
 
 
 # 0. Introduction Team (팀 소개)
-### ✅ 팀명 : TCP(Text Chat Programmers)
+### ✅ 팀명 : COTRIS
 <table align=center>
   <tbody>
     <tr>
