@@ -1,11 +1,11 @@
 # SKN08-1st-2Team
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00FF00&height=240&text=SKN01-4th-1Team&animation=&fontColor=00FF00&fontSize=90" width="1000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003300,100:00FF00&height=240&text=SKN08-1st-2Team&animation=&fontColor=00FF00&fontSize=90" width="1000" />
   
   <img width="1000" alt="image" src="https://github.com/Jh-jaehyuk/Jh-jaehyuk.github.io/assets/126551524/7ea63fc3-95f0-44d5-a0f0-cf431cae34f1"> 
   
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN01-4th-1Team&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN08-1st-2Team&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 
@@ -35,7 +35,7 @@
         <img src="https://avatars.githubusercontent.com/u/188949785?v=4"width="200px; alt=""/>
       </td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/24684846-d6d3-4a80-aaf2-485d9dafc557"width="200px; alt=""/>
+        <img src="https://cdn.discordapp.com/attachments/1314491560972259388/1314491631646412873/2024-12-06_4.19.04.png?ex=6753f73b&is=6752a5bb&hm=eb1a84cdbff28ee5a9e9f4095db117c4b41916ce54ee9844d94f97c78119b1b3&"width="200px; alt=""/>
       </td>
     </tr>
     <tr>
