@@ -41,8 +41,8 @@
     <tr>
       <td><a href="https://github.com/Joey9797"><div align=center>@Joey9797</div></a></td>
       <td><a href="https://github.com/ChoiByuengJun"><div align=center>@ChoiByuengJun</div></a></td>
-      <td><a href="https://github.com/yooodleee"><div align=center>@CodeLego8</div></a></td>
-      <td><a href="https://github.com/CodeLego8"><div align=center>@yooodleee</div></a></td>
+      <td><a href="https://github.com/CodeLego8"><div align=center>@CodeLego8</div></a></td>
+      <td><a href="https://github.com/yooodleee"><div align=center>@yooodleee</div></a></td>
     </tr>
   </tbody>
 </table>
