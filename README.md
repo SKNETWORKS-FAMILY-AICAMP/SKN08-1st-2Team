@@ -62,27 +62,6 @@
 - 새로운 기술에 대한 연구가 과거 대비 매우 빠른 속도로 발표되고 있습니다.
 - 이에 새로운 기술을 논문을 통해 접하고자 하는 니즈가 발생하고 있음을 발견하였고, 이러한 니즈를 충족시키기 위해 논문을 읽을 수 있는 방식을 LLM을 통해 제공하여 많은 사람들이 이용할 수 있도록 서비스화하고자 합니다.
 
-## 비동기 통신 방식의 Deep Learning Local Server
-### Syncronous Communication
-- 동기(Syncronous)란 동시에 일어난다는 뜻입니다. 즉, Request와 Response가 동시에 일어나는 통신 방식입니다.
-- 노드 A와 노드 B 사이의 작업 처리 단위를 동시에 맞춥니다.
-- 요청한 결과가 그 자리에서 동시에 주어집니다.
-### Asyncronous Communication
-- 비동기(Asyncronous)란 동시에 일어나지 않는다는 뜻입니다. 즉, Request와 Response가 동시에 일어나지 않는 통신 방식입니다.
-- 노드 사이의 작업 처리 단위를 동시에 맞추지 않겠다는 것으로, 요청한 결과가 그 자리에서 주어지지 않습니다.
-### 각 통신 방식의 장단점
-- 동기 통신의 경우 설계가 간단하며, 직관적이지만 그 작업이 끝날 때까지 아무런 작업도 할 수 없다는 단점이 있습니다.
-- 비동기 통신의 경우 동기 통신보다 비교적 복잡한 구현이 필요하지만, 작업이 끝날 때 까지 기다리지 않아도 되기 때문에 그 동안 다른 작업을 수행할 수 있으므로 효율적인 자원의 사용이 가능합니다.
-### 비동기 통신 방식 DLLS
-- 모델이 Request에 따라 Response를 하기까지 입력에 대한 결과를 추론하는데에 시간이 필요합니다. 만약 Response를 반환하는 과정을 동기 통신 방식으로 구현한다면, 결과 반환이 완료될 때 까지 사용자는 아무것도 하지 못합니다.
-- 따라서, 모델이 추론하여 Response를 반환하는 과정을 비동기 방식으로 설계하여 사용자가 추론 요청 이외의 작업을 수행할 때에도 문제가 없도록 하였습니다.
-### 물리적 로컬 서버 구현 이유
-- AWS 상에서 LLM 모델의 Fine Tuning 및 추론 과정을 구동시킬 경우, 예산을 넘어서는 비용이 발생할 가능성이 존재합니다.
-- 이에 컴퓨팅 자원이 많이 필요한 부분을 따로 물리적 로컬 서버에서 구동하여 Response를 반환하도록 설계하였습니다.
-- 결과적으로, 모델 서빙 역할의 FastAPI와 DLLS 상의 AI Client 사이의 비동기 통신을 통해 비용적인 측면에서의 최적화를 달성하고 사용자가 서비스를 사용함에 있어서 불편함이 없도록 하였습니다.
-### TLS/SSL 보안 통신 환경 구축
-- 커스텀 서버 특성 상, 비교적 해킹에 취약할 가능성이 존재합니다. 이에 보안 프로토콜을 적용하여 외부에서 우리의 서비스에 접근할 수 없도록 보안 통신 환경을 구축하였습니다.
-
 ### ✅프로젝트 목표
 1. Front-End에서는 **TypeScript**와 **Vue.js + Vuetify3**를 이용하여 사용자 측면에서 유리한 UI-UX를 구축하였고, **Axios** 를 통해서 올바른 Request를 하는 것을 목표로 삼았습니다. 
 2. Back-End에서는 **Python**과 **Django**, **MySQL** 등을 이용하여 Request에 대한 정확한 Response와 원활한 웹사이트 운영하는 것을 목표로 삼았습니다.
@@ -107,38 +86,17 @@
     <td>Development & Merge</td>
     <td><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/gitkraken-179287?style=flat&logo=Git&logoColor=gitkraken&logoColor=white"/></td>
-  </tr>  
+    
 </table>
 
 >### <span style="color:cyan"> Frontend </span>
 <table>
-  <tr>
-    <td>FE IDE</td>
-    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/></td>
-    <td></td>
-    <td></td>
   </tr>
   <tr>
     <td>Markup & Style & JS</td>
     <td><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/></td>
     <td><img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat&logo=javascript&logoColor=white"/></td>
-  </tr> 
-  <tr>
-    <td>Vue & TypeScript</td>
-    <td><img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/vuetify-%231867C0?style=flat&logo=vuetify&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=black"/></td>
-  </tr> 
-  <tr>
-    <td>Async HTTP/AJAX Request</td>
-    <td><img src="https://img.shields.io/badge/axios-%235A29E4?style=flat&logo=axios&logoColor=white"/></td>
-    <td></td>
-    <td></td>
-  </tr>
 </table>
-
 
 >### <span style="color:cyan"> Backend </span>
 <table>
@@ -152,63 +110,7 @@
     <td><img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/></td>
     <td></td>
   </tr>
-  <tr>
-    <td>Docker</td>
-    <td><img src="https://img.shields.io/badge/docker-%232496ED?style=flat&logo=docker&logoColor=white"/></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>In Memory Caching DB</td>
-    <td><img src="https://img.shields.io/badge/redis-%23FF4438?style=flat&logo=redis&logoColor=white"/></td>
-    <td></td>
-  </tr>
-</table>
-
->### <span style="color:cyan"> LLM with DLLS </span>
-<table>  
-  <tr>
-    <td>Deep Learning</td>
-    <td><img src="https://img.shields.io/badge/Deep_Learning-00599C?style=flat&logo=deep-learning&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/></td>
-  </tr>  
-  <tr>
-    <td>LLM</td>
-    <td><img src="https://img.shields.io/badge/LLM-4B8BBE?style=flat&logo=python&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Llama-FF4500?style=flat&logo=llama&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Hugging%20Face-FFDE47?style=flat&logo=huggingface&logoColor=white"/></td>
-  </tr>
-  <tr>
-    <td>DLLS</td>
-    <td><img src="https://img.shields.io/badge/fastapi-%23009688?style=flat&logo=fastapi&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Async%20Socket%20Server-FF6F00?style=flat&logo=socket.io&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/Async%20Socket%20Client-007ACC?style=flat&logo=socket.io&logoColor=white"/></td>
-    <td></td>
-  </tr>  
-</table>
-
->### <span style="color:cyan"> CI-CD Infrastructure </span>
-<table>
-  <tr>
-    <td>OS & Remote</td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/></td>
-    <td><img src="https://img.shields.io/badge/WSL-4E9A06?style=flat&logo=linux&logoColor=white"/></td>
-    <td></td>
-  </tr>  
-  <tr>
-    <td>AWS</td>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white"/></td>
-  </tr>  
-  <tr>
-    <td>GitHub & GitHub Action</td>
-    <td><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/github%20actions-2088FF?style=flat&logo=github-actions&logoColor=white"/></td>
-    <td></td>
-  </tr>  
+  
 </table>
 <br><br><br>
 
