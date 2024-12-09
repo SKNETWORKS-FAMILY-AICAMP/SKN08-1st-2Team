@@ -121,7 +121,7 @@
 
 
 # 3. 시스템 구성도
-![image](https://github.com/user-attachments/assets/66a78240-b41d-487a-8800-29bccbab7d41)
+![image](https://github.com/user-attachments/assets/f0e186ff-eb5d-44b5-a31d-dbc5213c008f)
 <br><br><br>
 
 
